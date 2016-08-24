@@ -1,0 +1,36 @@
+
+
+.primary{background-color: #dabda4;}
+.secondary{background-color:#845E3A;}
+
+hr{ border-top: 2px solid #845E3A;}
+
+
+
+a:link{
+	text-decoration: none;
+	color: #dabda4;
+	text-decoration: none;
+}
+a:visited{
+	color: #a38f75;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+text-decoration: none;
+}
+
+a:active{
+	text-decoration: none;
+	color: #845E3A;
+	background-color: #dabda4;
+}
+
+ h2, h3,h4{
+	color: #b17e4e;;
+	text-shadow: 1px 1px 5px lightgray;
+}
+
+
