@@ -1,6 +1,7 @@
 
 #slider-box  { 
 	display: flex;
+  flex-basis:content;
 	 box-sizing: content-box;
 max-height: 600px;
 	position: relative;
@@ -62,7 +63,7 @@ position: absolute;
  }
 
  img{
- 	width:  100%; 
+ max-width:  100%; 
  	
   	background-size: 150%;
   	background-position: center;
