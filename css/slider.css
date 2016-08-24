@@ -11,8 +11,6 @@ max-height: 600px;
 }
  
 
- 
-
  .go-right:hover, .go-left:hover{
 background: rgba(155, 155, 155, 0.1);
 box-shadow: -2px 0px 15px rgba(200, 200, 200 ,0.5);
@@ -43,24 +41,14 @@ position: absolute;
 }
 
 
-
-
-
-
-
-
-
  .slider{
  	width: 100%;
  	height: 100%;
  	position: relative;
  	background: rgba(0, 0, 0, 0.9);
- 	
-    font-size: 21px;
-    text-align: center;
-    
-
- }
+ 	font-size: 21px;
+  text-align: center;
+}
 
  img{
  max-width:  100%; 
