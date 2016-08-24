@@ -3,7 +3,7 @@
 	display: flex;
   flex-basis:content;
 	 box-sizing: content-box;
-max-height: 600px;
+max-height: 1000px;
 	position: relative;
  	text-align: justify;
  	box-shadow: 3px 4px 20px 2px rgba(0,0,0,0.2);
@@ -39,9 +39,11 @@ color: white;
 position: absolute;
 
 }
-
+ 
+ 
 
  .slider{
+  overflow: auto;
  	width: 100%;
  	height: 100%;
  	position: relative;
@@ -51,7 +53,7 @@ position: absolute;
 }
 
  img{
- max-width:  100%; 
+ 
  	
   	background-size: 150%;
   	background-position: center;
